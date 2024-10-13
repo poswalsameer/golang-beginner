@@ -15,7 +15,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const dbConnectionString = "mongodb+srv://poswalsameer2003:sameerposwal123@cluster0.ci01c.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+const dbConnectionString = "removed-the-string-HEHEHE"
 
 const dbName = "MeTube"
 const collectionName = "watchList"
